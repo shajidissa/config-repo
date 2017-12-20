@@ -13,6 +13,7 @@ server:
     
 eureka:
   instance:
+    hostname: 51.141.9.85
     preferIpAddress: true
   client:
     registerWithEureka: true
