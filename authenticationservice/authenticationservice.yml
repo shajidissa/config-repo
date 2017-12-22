@@ -10,12 +10,3 @@ spring.datasource.testWhileIdle: "true"
 spring.datasource.validationQuery: "SELECT 1"
 spring.jpa.properties.hibernate.dialect: "org.hibernate.dialect.MySQL5Dialect"
 signing.key: "345345fsdfsf5345"
-
-eureka:
-  instance:
-    preferIpAddress: true
-  client:
-    registerWithEureka: true
-    fetchRegistry: true
-    serviceUrl:
-        defaultZone: http://51.141.9.85:8761/eureka
