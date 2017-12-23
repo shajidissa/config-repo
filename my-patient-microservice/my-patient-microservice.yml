@@ -28,5 +28,5 @@ eureka:
 security:
   oauth2:
     resource:
-      userInfoUri: http://51.141.9.85:8901/auth/user
+      userInfoUri: http://51.141.9.85:8091/auth/user
  
