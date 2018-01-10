@@ -5,6 +5,7 @@ zuul.routes.licensingservice: /licensing/**
 zuul.routes.authenticationservice: /auth/**
 zuul.routes.my-patient-microservice: /my-patient-microservice/**
 zuul.routes.microservice-mysql-simple: /microservice-mysql-simple/**
+zuul.routes.my-crypto-microservice: /my-crypto-microservice/**
 #zuul.routes.licensestatic.path: /licensestatic/**
 #zuul.routes.licensestatic.url:  http://licenseservice-static:8081
 #zuul.routes.licensestatic.serviceId: licensestatic
